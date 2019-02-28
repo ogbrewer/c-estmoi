@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A Demo of Pseudo Classes with CSS</title>
+    <style>
+        
+        /* Normal Element */
+        a {
+            font-size: 24px;
+        }
+        
+        /* 
+            Hover Pseudo Class:
+            Changes the style only 
+            when the mouse hovers over 
+            the element
+        */
+        a:hover {
+            background-color: darkred;
+        }
+        
+        /* 
+            Focus Pseudo Class:
+            Changes the style only 
+            when the browser gives the 
+            the element focus(in this case, after
+            the link is clicked)
+        */
+        a:focus {
+            background-color: orange;
+        }
+        
+         /* 
+            Active Pseudo Class:
+            Changes the style only 
+            when the user clicks down 
+            on the element. The style 
+            ceases when the user releases 
+            the click
+        */
+        a:active {
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <a href="#">Going nowhere</a>
+    <a href="#">Going nowhere as well</a>
+</body>
+</html>

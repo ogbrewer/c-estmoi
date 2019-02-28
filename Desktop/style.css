@@ -1,0 +1,22 @@
+<style>
+body {
+    margin:0;
+    padding:0;
+    line-height: 0.8;
+}
+span.a {
+    display: inline-block;
+float: left;
+}
+span.b {
+    display: inline-block;
+float: center;
+}
+span.c {
+    display: inline-block;
+float: right;
+}
+div.a {
+    display: inline-block;
+}
+</style>

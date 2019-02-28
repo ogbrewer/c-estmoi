@@ -1,0 +1,15 @@
+
+div.a {
+  color: orange;
+  font-size: 48px;
+}
+div.b{
+  text-align: center;
+}
+p.styledFont {
+  color: red;
+}
+img.a {
+  border: black;
+  border-width: 2px;
+}

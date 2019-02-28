@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <style type="text/css">
+  body { background-color: turquoise;}
+  </style>
+</head>
+<br>
+<body>
+<p> <title align="center">A Tribute to Imagine Dragons</title></p>
+<h2><u><p style="color: orange; font-size: 35px;"  > <align="right">This is my second line.</p></h2></u>
+<h1><p style="color: pink;" >This is a new paragraph</h1>
+  <table border=10 width="1000px">
+  <tr>
+  <td  width="50%">Females are awesome</td>
+  </tr>
+
+  <tr>
+  <td  width="25%">Way hotter than males</td>
+  </tr>
+
+  <tr>
+  <td  width="25%">I like Females</td>
+  </tr>
+
+  <tr>
+  <td  width="25%">Here are some femme fatales!</td>
+  </tr>
+
+  </table>
+  <form>
+
+Name:
+<input type="text" name="my_name">
+<br />
+Women are sexy:
+<input type="checkbox" name="taste" value="people" />
+<br />
+Women are dangerous:
+<input type="checkbox" name="taste" value="fish" />
+<br />
+A beautiful woman is as sweet as she is deadly:
+<br>
+<input type="radio" name="opinion" value="agree"> I agree.
+<br>
+<input type="radio" name="opinion" value="disagree"> I disagree.
+<form name="input" action="mail.php"
+method="get">
+<br>
+Enter email to subscribe to our newsletter:
+<input type="text" name="subscribe">
+<input type="submit" value="Subscribe">
+</form>
+<ol>
+  <li>thing 1</li>
+<li>thing 2</li>
+  <li>thing 3</li>
+</ol>
+<img src="/Users/olivergordonbreweriv/Desktop/images/6eee9467b30ea873cb762e11e0e49461.jpg">
+<img src="/Users/olivergordonbreweriv/Desktop/images/Beautiful and Dangerous.jpg">
+<img src="/Users/olivergordonbreweriv/Desktop/images/xana.jpg">
+<img src="/Users/olivergordonbreweriv/Desktop/images/Jillian Murray.png">
+<img src="/Users/olivergordonbreweriv/Desktop/images/21462431_2045798628985914_317491950802858172_n.jpg">
+</body>
+</html>

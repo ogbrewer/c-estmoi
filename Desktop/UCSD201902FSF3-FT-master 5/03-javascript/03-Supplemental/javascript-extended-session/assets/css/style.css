@@ -1,0 +1,13 @@
+body {
+    background-color: lavender;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: lightcoral;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+}
